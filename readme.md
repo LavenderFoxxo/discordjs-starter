@@ -3,6 +3,8 @@ Thank you, *thank you*, ***thank you*** for checking out my Discord.JS template.
 
 This template may be copied, forked, or redistributed as long credit is given back to me, it can be a simple, "Thank you to..." or a link leading back to my GitHub Account.
 
+If you ever get stuck, refer to the official Discord.JS documentation, which can be found [here!](https://discordjs.guide)
+
 ## Getting Started
 1. You'll need to clone the repository, this can be done with source control managers such as Git. In order to clone this repo in specific, you can open your terminal and run the following. This will then copy the contents of the repository into your current folder under the name `discordjs-starter`.
 
