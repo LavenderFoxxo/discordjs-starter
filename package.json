@@ -1,0 +1,20 @@
+{
+  "name": "discordjs-starter",
+  "author": "Alexander Hyman",
+  "version": "1.0.0",
+  "description": "Need a way to get your Discord Bot off the ground? This template can help you!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.1",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1",
+    "util": "^0.12.5"
+  }
+}
